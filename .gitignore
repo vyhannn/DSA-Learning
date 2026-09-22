@@ -69,3 +69,7 @@ Testing/
 .cache/
 program
 .vscode
+
+# adding
+Thumbs.db
+desktop.ini
